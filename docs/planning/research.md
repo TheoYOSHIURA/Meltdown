@@ -1,6 +1,6 @@
 # Research
 
-## Personnages:
+## Personnages
 * id:
 émotionnel, instinctif
 optimiste, courageux, buté, coléreux, fonceur, fonceur
