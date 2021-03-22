@@ -6,6 +6,15 @@
 
 ---
 
+## Goals
+
+- [ ] Story
+- [ ] Characters
+- [ ] Locations
+- [ ] Objects
+
+---
+
 ## Chapters Released
 
 - [ ] [ Chapter 0 : title](chapters/chapter0.md)

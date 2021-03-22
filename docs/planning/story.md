@@ -1,5 +1,7 @@
 # Story
 
+---
+
 ## Personnages
 * id:
 émotionnel, instinctif
@@ -53,6 +55,8 @@ Dénouement:
 Conclusion:
 ```
 
-Timeline:
+---
+
+## Timeline
 
 ---
