@@ -6,10 +6,12 @@ repo_url: https://github.com/TheoYOSHIURA/Meltdown
 
 theme:
   #Language
-  language: fr
+  language: en
 
   # Use material styles
   name: material
+
+  custom_dir: overrides
 
   # Use custom logo and favicon
   #logo: images/raspberry.svg
@@ -22,11 +24,15 @@ theme:
   # Hide header
   features:
     - header.autohide
+    - toc.integrate
 
   # Color palette
   palette:
-    primary: black
-    secondary: yellow
+    primary: red
+    saccent: yellow
+
+  font:
+    code: Roboto Mono
 
 # Extensions
 markdown_extensions:
@@ -50,3 +56,5 @@ extra:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
+
+edit_uri: ""
