@@ -1,5 +1,5 @@
 
-# What makes a Bad First Chapter? (R/writing)
+# What makes a Bad First Chapter?
 [source](https://www.reddit.com/r/writing/comments/maeml1/what_makes_a_bad_first_chapter/)
 
 ---
