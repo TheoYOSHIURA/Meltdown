@@ -6,14 +6,14 @@ repo_url: https://github.com/TheoYOSHIURA/Meltdown
 
 theme:
   #Language
-  language: en
+  language: fr
 
   # Use material styles
   name: material
 
   # Use custom logo and favicon
-  # logo: images/raspberry.svg
-  # favicon: images/raspberry.png
+  #logo: images/raspberry.svg
+  #favicon: images/raspberry.png
 
   # Github Icon Header
   icon:
@@ -26,7 +26,7 @@ theme:
   # Color palette
   palette:
     primary: black
-    secondary: blue
+    secondary: yellow
 
 # Extensions
 markdown_extensions:
