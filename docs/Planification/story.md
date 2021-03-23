@@ -1,22 +1,8 @@
-# Story
+# Histoire
 
 ---
 
-## Personnages
-* id:
-émotionnel, instinctif
-optimiste, courageux, buté, coléreux, fonceur, fonceur
-m: katsu, shin, takeshi, yû
-
-* ego: 
-réconcilie l’id et le superego, pont entre les deux
-timide, amical, honnête, hypersensible, maladroit, naïf, altruiste
-f: fuyuko, jun, kiyoko, naoko
-
-* superego:
-froid, logique
-manipulateur, perfectionniste, impatient, réaliste, calme, confiant
-m: haruki, kei,
+## Protagonistes Et Objectifs
 
 Qui sont les protagonistes?
 
@@ -54,9 +40,5 @@ Point d’orgue:
 Dénouement:
 Conclusion:
 ```
-
----
-
-## Timeline
 
 ---

@@ -4,7 +4,7 @@
 
 ---
 
-**sneep_snopped**:
+## sneep_snopped
   
 > As a reader for a lit mag, the biggest goof ups I see tend to be focusing on the wrong things either through 1) massive amounts of exposition or 2) false promises.
 > 
@@ -30,7 +30,7 @@
 
 ---
 
-**Escaho**:
+## Escaho
   
 > Reasons I will drop a book after the first chapter:
 > 

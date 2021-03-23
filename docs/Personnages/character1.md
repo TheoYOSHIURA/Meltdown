@@ -1,6 +1,6 @@
 # Yû
 
-* Archetype : id
+Archetype : id
 
 émotionnel, instinctif
 

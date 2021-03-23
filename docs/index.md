@@ -1,21 +1,12 @@
-# Home
+# Index
 
 ---
 
-## About
+## À propos
 
 ---
 
-## Goals
-
-- [ ] Story
-- [ ] Characters
-- [ ] Locations
-- [ ] Objects
-
----
-
-## Chapters Released
+## Chapitres terminés
 
 - [ ] [ Chapter 0 : title](chapters/chapter0.md)
 - [ ] [ Chapter 1 : title](chapters/chapter1.md)
