@@ -1,22 +1,35 @@
 # Histoire
 
+Des évenements temporels étranges ont soudainement occourus dans le monde. Ces évennements sont causés par une organisation mystérieuse visant à inverser le cours du temps pour réparer leur passé.
+
+Dans un monde post-apocalyptique, une organisation mystérieuse vise à inverser le cours du temps pour réparer leur passé.
+
+Yû, Naoko et Kei, se retrouvent au milieu de la plus grande 
+
 ---
 
 ## Protagonistes Et Objectifs
 
-Qui sont les protagonistes?
+**Qui sont les protagonistes?**
 
-Que veulent les protagonistes ?
+Yû, Kei, Naoko
 
-De quoi ont besoin les protagonistes ? (C’est l’objectif du monde intérieur du protagoniste et il est lié à son point final de transformation.)
 
-Qui essaie d’éloigner les protagonistes de leur but ?
+**Que veulent les protagonistes ?**
 
-Qui permet la croissance émotionnelle du Protagoniste ? (C’est l’Attracteur de l’histoire qui fonctionne en relation avec le cœur du Protagoniste.)
+Découvrir pourquoi l'appocalypse est arrivée.
 
-Qui permet la croissance intellectuelle du Protagoniste ? (C’est le Mentor de l’histoire qui fonctionne en relation avec la “tête” du Protagoniste.)
+**De quoi ont besoin les protagonistes ? (C’est l’objectif du monde intérieur du protagoniste et il est lié à son point final de transformation.)**
 
-Qui teste le Protagoniste pour approfondir la transformation de son “cœur” et de sa “tête”? (C’est le Trickster de l’histoire qui fonctionne tantôt comme l’allié du Protagoniste, tantôt comme l’ennemi du Protagoniste.)
+Naoko: Confiance en soi, détermination, courage.
+
+Yû: Patience
+
+Kei: Empathie 
+
+**Qui essaie d’éloigner les protagonistes de leur but ?**
+
+Une organisation secrète visant à refaire leurs passés en inversant le temps.
 
 ---
 
