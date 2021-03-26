@@ -1,11 +1,5 @@
 # Histoire
 
-Des évenements temporels étranges ont soudainement occourus dans le monde. Ces évennements sont causés par une organisation mystérieuse visant à inverser le cours du temps pour réparer leur passé.
-
-Dans un monde post-apocalyptique, une organisation mystérieuse vise à inverser le cours du temps pour réparer leur passé.
-
-Yû, Naoko et Kei, se retrouvent au milieu de la plus grande 
-
 ---
 
 ## Protagonistes Et Objectifs
